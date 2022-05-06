@@ -1,0 +1,8 @@
+{
+  "name": "Cabso",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "0107b6e6"
+}

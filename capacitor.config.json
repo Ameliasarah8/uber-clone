@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Cabso",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
